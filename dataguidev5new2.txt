@@ -31,20 +31,20 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-3234694-1",
+"yandex_inter":"R-M-3234694-3",
+"yandex_native":"R-M-3234694-2",
+"yandex_reward":"R-M-3234694-4",
 
 "detail_first_button":"first button",
 "detail_second_button":"12MB",
 "detail_text_title":"how to use title text",
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
   
 
@@ -52,35 +52,35 @@
 },
  
  "my_data":[
-  {"title":"title1 ser",
+  {"title":"GMOD GAME APK 1",
   "download_num":"58458",
   "visite_num":"2141",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser",
+  {"title":"GMOD GAME APK 2",
   "download_num":"58458",
   "visite_num":"2141",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser",
+  {"title":"GMOD GAME APK 3 ANDROID",
   "download_num":"58458",
   "visite_num":"2141",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser",
+  {"title":"GMOD GAME APK 4",
   "download_num":"58458",
   "visite_num":"2141",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser",
+  {"title":"GMOD GAME APK 5",
   "download_num":"58458",
   "visite_num":"2141",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser",
+  {"title":"GMOD GAME APK 6",
   "download_num":"58458",
   "visite_num":"2141",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser",
+  {"title":"GMOD GAME APK 7",
   "download_num":"58458",
   "visite_num":"2141",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser",
+  {"title":"GMOD GAME APK 8",
   "download_num":"58458",
   "visite_num":"2141",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
